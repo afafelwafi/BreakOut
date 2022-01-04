@@ -1,6 +1,7 @@
 # BreakOut
 I developed few years ao for  my 1st year in Enineering School a classic Java 2D game with a little twist : Breakout.
 Breakout is an arcade game originally developed by Atari Inc. The game was created in 1976.
+
 ----------------
 ## Design pattern : MVC
 In this project, we use MVC software design (Model View Controller) in order to separate the display from information, user actions and data access :
@@ -10,5 +11,7 @@ In this project, we use MVC software design (Model View Controller) in order to 
 ![files](https://github.com/afafelwafi/BreakOut/blob/main/files_mvc.PNG)
 
 
-
+----------------
+## UML Diaram
+![uml](https://github.com/afafelwafi/BreakOut/blob/main/uml.PNG)
 
