@@ -13,5 +13,5 @@ In this project, we use MVC software design (Model View Controller) in order to 
 
 ----------------
 ## UML Diaram
-![uml](https://github.com/afafelwafi/BreakOut/blob/main/UML.PNG)
+![uml](https://github.com/afafelwafi/BreakOut/blob/main/UML.png)
 
