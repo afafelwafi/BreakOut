@@ -2,7 +2,7 @@
 I developed few years ao for  my 1st year in Enineering School a classic Java 2D game with a little twist : Breakout.
 Breakout is an arcade game originally developed by Atari Inc. The game was created in 1976.
 The game is played in 3 different levels, according to Racket's speed and bricks display:
-![easy](https://github.com/afafelwafi/BreakOut/blob/main/eady.png)![medium](https://github.com/afafelwafi/BreakOut/blob/main/medium.png)![hard](https://github.com/afafelwafi/BreakOut/blob/main/hard.png)
+![easy](https://github.com/afafelwafi/BreakOut/blob/main/easy.png)![medium](https://github.com/afafelwafi/BreakOut/blob/main/medium.png)![hard](https://github.com/afafelwafi/BreakOut/blob/main/hard.png)
 
 
 ----------------
